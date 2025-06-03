@@ -1,0 +1,31 @@
+# Core ML libraries
+torch>=1.13
+torchvision
+numpy
+pandas
+scikit-learn
+opencv-python
+Pillow
+matplotlib
+albumentations
+
+# MLflow for experiment tracking
+mlflow
+
+# FastAPI for model serving
+fastapi
+uvicorn
+
+# YOLOv5 dependencies
+pyyaml
+tqdm
+requests
+ultralytics
+
+# Optional: for model deployment, monitoring
+prometheus_client
+
+# Dev and testing
+pytest
+black
+flake8
